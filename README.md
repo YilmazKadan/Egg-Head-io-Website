@@ -1,4 +1,4 @@
-# Egg-Head-o-Website
+# Egg-Head-io-Website
 Bu proje Eggheadi.io websitesinin "Responsvie Frontend" kodlamasını içerir.
 
 **Canlı Örnek:**  https://yilmazkadan.github.io/Egg-Head-o-Website/
